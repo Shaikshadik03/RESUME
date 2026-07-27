@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi 👋, I'm Shaik Shadik</h1>
-  <h3>🚀 B.Tech CSE Student | AI & Automation Builder</h3>
-  <p><i>Building intelligent systems, voice agents, and next-generation AI operating systems.</i></p>
+  <h3>🚀 B.Tech CSE Student | AI & Automation Builder | Entrepreneur</h3>
+  <p><i>Building AI Solutions, Websites, Automation & Digital Growth.</i></p>
 
   <p>
     <a href="./Shaik_Shadik_Resume_July_2026.pdf" target="_blank">
@@ -12,11 +12,18 @@
     </a>
   </p>
 
-  <p>
+  <br/>
+
+  <!-- Social Badges Section -->
+  <p align="center">
+    <a href="https://shadikprotfolio.lovable.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://www.linkedin.com/in/shxdik03" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-shxdik03-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://github.com/Shaikshadik03" target="_blank"><img src="https://img.shields.io/badge/GitHub-Shaikshadik03-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://www.instagram.com/buildwithshadik" target="_blank"><img src="https://img.shields.io/badge/Instagram-@buildwithshadik-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+    <a href="https://x.com/SHADIKSHAI40887" target="_blank"><img src="https://img.shields.io/badge/X_(Twitter)-@SHADIKSHAI40887-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
+    <a href="https://leetcode.com/u/shxdik-03" target="_blank"><img src="https://img.shields.io/badge/LeetCode-shxdik--03-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
     <a href="mailto:shaikshadik003@gmail.com"><img src="https://img.shields.io/badge/Email-shaikshadik003%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://github.com/Shaikshadik03"><img src="https://img.shields.io/badge/GitHub-Shaikshadik03-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-    <a href="https://linkedin.com/in/shaikshadik"><img src="https://img.shields.io/badge/LinkedIn-Shaik_Shadik-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://leetcode.com/u/shaikshadik03/"><img src="https://img.shields.io/badge/LeetCode-Shaik_Shadik-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+    <a href="https://wa.me/918309432965?text=Hey!%20I%20really%20liked%20what%20you%20do.%20I%27m%20interested%20in%20collaborating%20or%20working%20together.%20Let%27s%20build%20something%20awesome!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-Let's%20Build-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
   </p>
 </div>
 
@@ -27,8 +34,9 @@
 - 🎓 **Education:** First-year Computer Science & Engineering undergraduate at **Malla Reddy University (MRU), Hyderabad** (*Expected 2029*).
 - 🤖 **What I Build:** AI-powered applications, 24/7 AI Voice Agents (Twilio + Vapi), and personal AI operating systems (**AIRA-OS**).
 - ⚡ **Core Stack:** Comfortable working across the modern AI stack (Claude & Gemini APIs, Supabase, Groq, FastAPI, Flutter, Python).
+- 💼 **Services & Business:** Helping businesses grow using AI, websites, automation, and digital marketing (**[shadik.lovable.app](https://shadik.lovable.app)**).
 - 🎯 **Current Focus:** Seeking internship and hackathon opportunities to apply and scale skills in real team environments.
-- 📢 **Content & Entrepreneurship:** Actively building a personal content presence documenting my AI development and student entrepreneurship journey.
+- 📢 **Content & Entrepreneurship:** Actively building a personal content presence documenting my AI development and student tech journey.
 
 ---
 
@@ -92,13 +100,30 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Analytics & Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shaikshadik03&show_icons=true&theme=tokyonight&hide_border=true" alt="Shaik Shadik's GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaikshadik03&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+<div align="center">
+  <h4>📊 Activity Contribution Graph</h4>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shaikshadik03&theme=react-dark&hide_border=true" width="100%" alt="Contribution Graph" />
+</div>
+
+<br/>
+
+<div align="center">
+  <h4>🐍 Contribution Snake Eating Green Dots</h4>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shaikshadik03/RESUME/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shaikshadik03/RESUME/output/github-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Shaikshadik03/RESUME/output/github-snake-dark.svg">
+  </picture>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shaikshadik03&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shaikshadik03&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+</div>
 
 ---
 
@@ -108,6 +133,18 @@
 - 🚀 **Content Creator & Entrepreneur:** Documenting AI development and student tech journey.
 
 ---
+
+### 🌐 Connect & Collaborate
+
+<p align="center">
+  <a href="https://shadik.lovable.app"><b>Build with Shadik Website</b></a> • 
+  <a href="https://shadikprotfolio.lovable.app"><b>Portfolio</b></a> • 
+  <a href="https://www.linkedin.com/in/shxdik03"><b>LinkedIn</b></a> • 
+  <a href="https://www.instagram.com/buildwithshadik"><b>Instagram</b></a> • 
+  <a href="https://x.com/SHADIKSHAI40887"><b>Twitter (X)</b></a> • 
+  <a href="https://leetcode.com/u/shxdik-03"><b>LeetCode</b></a> • 
+  <a href="https://wa.me/918309432965"><b>WhatsApp</b></a>
+</p>
 
 <div align="center">
   <p><i>Designed & Maintained by <a href="https://github.com/Shaikshadik03">Shaik Shadik</a> | Updated July 2026</i></p>
