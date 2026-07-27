@@ -4,6 +4,15 @@
   <p><i>Building intelligent systems, voice agents, and next-generation AI operating systems.</i></p>
 
   <p>
+    <a href="./Shaik_Shadik_Resume_July_2026.pdf" target="_blank">
+      <img src="https://img.shields.io/badge/📥_Download_Resume_(PDF)-2BA64E?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download Resume PDF" />
+    </a>
+    <a href="./Shaik_Shadik_Resume_July_2026.docx">
+      <img src="https://img.shields.io/badge/📥_Download_Resume_(DOCX)-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Download Resume DOCX" />
+    </a>
+  </p>
+
+  <p>
     <a href="mailto:shaikshadik003@gmail.com"><img src="https://img.shields.io/badge/Email-shaikshadik003%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://github.com/Shaikshadik03"><img src="https://img.shields.io/badge/GitHub-Shaikshadik03-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
     <a href="https://linkedin.com/in/shaikshadik"><img src="https://img.shields.io/badge/LinkedIn-Shaik_Shadik-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
