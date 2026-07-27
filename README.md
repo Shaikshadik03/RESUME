@@ -78,17 +78,18 @@
 | Institution | Degree / Certificate | Grade / Score | Year |
 | :--- | :--- | :--- | :--- |
 | **Malla Reddy University (MRU)**, Hyderabad | B.Tech CSE (Core) | Undergraduate | Expected 2029 |
-| **TMR-JC Rajendra Nagar**, Shamshabad | Intermediate (12th) | **93.6%** | 2024 |
-| **TMREIS Khammam Boys** | 10th (SSC) | **CGPA 9.0** | 2022 |
+| **TMR-JC Rajendra Nagar**, Shamshabad | Intermediate (12th) | **93.6%** | 2026 |
+| **TMREIS Khammam Boys** | 10th (SSC) | **CGPA 9.0** | 2024 |
 
 ---
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shaikshadik03&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaikshadik03&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="170"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shaikshadik03&show_icons=true&theme=tokyonight&hide_border=true" alt="Shaik Shadik's GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaikshadik03&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
